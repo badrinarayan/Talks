@@ -1,4 +1,4 @@
 Talks
 =====
 
-Store for talk slides
+This contains various slides and notes for talks I have given.
